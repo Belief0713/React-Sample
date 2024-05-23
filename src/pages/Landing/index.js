@@ -11,11 +11,11 @@ function Landing() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <Link to="/test1">To Test1</Link>
-        <Link to="/test2">To Test2</Link>
-        <Link to="/test3">To Test3</Link>
-        <Link to="/test3demo">To Test3demo</Link>
-        <Link to="/test4">To Test4</Link>
+        <Link to="/test1">To Returning Function</Link>
+        <Link to="/test2">To Wrapper what can has children components</Link>
+        <Link to="/test3">To Using Customized Hook on -useContext-</Link>
+        {/* <Link to="/test3demo">To Test3demo</Link> */}
+        <Link to="/test4">To Using Redux</Link>
       </header>
     </div>
   );

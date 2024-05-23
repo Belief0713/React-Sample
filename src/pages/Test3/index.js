@@ -8,7 +8,7 @@ function Test3() {
 
     return(
         <>
-            <button onClick = {() => {setValue("value1" , "asdfasdfasdf"); navigate("/test3demo");}}>Click me to go Test3demo Page.</button>
+            <button onClick = {() => {setValue("value3" , "created new element..."); navigate("/test3demo");}}>Click me to go Test3demo Page.</button>
         </>
     );
 }

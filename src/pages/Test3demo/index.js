@@ -5,7 +5,7 @@ function Test3demo() {
     
     return(
         <>
-            <h1 style={{color:"red"}}>{getValue("value1") || "None..."}</h1>
+            <h1 style={{color:"red"}}>{getValue("value3") || "None..."}</h1>
         </>
     );
 }
